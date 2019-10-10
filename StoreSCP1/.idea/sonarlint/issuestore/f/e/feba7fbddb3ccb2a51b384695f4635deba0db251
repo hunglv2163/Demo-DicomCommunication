@@ -1,24 +1,24 @@
 
-nsquid:S1192Û"ODefine a constant instead of duplicating this literal "accept-unknown" 3 times.(ªñÙ×8ØªžØÚ-
-]squid:S3398‡">Move this method into the anonymous class declared at line 58.(¦˜áý8ÓŽµØÚ-
-hsquid:S1192Ô"IDefine a constant instead of duplicating this literal "filepath" 4 times.(ªÿ¤ô8ØªžØÚ-
-\
-squid:S106÷"9Replace this use of System.out or System.err by a logger.(›õÊòûÿÿÿÿ8ØªžØÚ-
-’squid:S1598"tThis file "StoreSCP.java" should be located in "org\dcm4che3\tool" directory, not in "D:\GitHub\StoreSCP1\src\test".(¤âÄñ8ñÆÿÚ-
-Gsquid:S1148û"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ØªžØÚ-
-ksquid:S1192É"GDefine a constant instead of duplicating this literal "ignore" 3 times.(Ô÷¤Œúÿÿÿÿ8ØªžØÚ-
-isquid:S2142X"FEither re-interrupt this method or rethrow the "InterruptedException".(­¤ß”øÿÿÿÿ8ØªžØÚ-
-[squid:S3398}">Move this method into the anonymous class declared at line 58.(æ ßH8ØªžØÚ-
-ssquid:S1192Â"ODefine a constant instead of duplicating this literal "response-delay" 3 times.(ˆæÛ·üÿÿÿÿ8ØªžØÚ-
-W
-squid:S106ú"9Replace this use of System.out or System.err by a logger.(ÆÏø²8ØªžØÚ-
-psquid:S1192à"LDefine a constant instead of duplicating this literal "sop-classes" 3 times.(œ¦ÄËûÿÿÿÿ8ØªžØÚ-
-Msquid:S00108X")Either remove or fill this block of code.(­¤ß”øÿÿÿÿ8ØªžØÚ-
-isquid:S1192Î"JDefine a constant instead of duplicating this literal "directory" 3 times.(‘Ê¥”8ØªžØÚ-
-W
-squid:S106ö"9Replace this use of System.out or System.err by a logger.(ÆÏø²8ØªžØÚ-
-[squid:S3398t">Move this method into the anonymous class declared at line 58.(‰·ÿz8ÓŽµØÚ-
-]
-squid:S899x";Do something with the "boolean" value returned by "delete".(ŽôÙ‹ùÿÿÿÿ8ØªžØÚ-
-fsquid:S1192¹"GDefine a constant instead of duplicating this literal "status" 3 times.(‰Õã8ØªžØÚ-
-asquid:S3398g">Move this method into the anonymous class declared at line 58.(¡—ÛÌûÿÿÿÿ8ÓŽµØÚ-
+U
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(›õÊòûÿÿÿÿ
+_squid:S1192¹"GDefine a constant instead of duplicating this literal "status" 3 times.(‰Õã
+bsquid:S2142X"FEither re-interrupt this method or rethrow the "InterruptedException".(­¤ß”øÿÿÿÿ
+P
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(ÆÏø²
+V
+squid:S899x";Do something with the "boolean" value returned by "delete".(ŽôÙ‹ùÿÿÿÿ
+bsquid:S1192Î"JDefine a constant instead of duplicating this literal "directory" 3 times.(‘Ê¥”
+dsquid:S1192É"GDefine a constant instead of duplicating this literal "ignore" 3 times.(Ô÷¤Œúÿÿÿÿ
+isquid:S1192à"LDefine a constant instead of duplicating this literal "sop-classes" 3 times.(œ¦ÄËûÿÿÿÿ
+Vsquid:S3398‡">Move this method into the anonymous class declared at line 58.(¦˜áý
+lsquid:S1192Â"ODefine a constant instead of duplicating this literal "response-delay" 3 times.(ˆæÛ·üÿÿÿÿ
+¤squid:S1598"ŒThis file "StoreSCP.java" should be located in "org\dcm4che3\tool" directory, not in "D:\GitHub\Demo-DicomCommunication\StoreSCP1\src\test".(¤âÄñ
+P
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(ÆÏø²
+@squid:S1148û"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+asquid:S1192Ô"IDefine a constant instead of duplicating this literal "filepath" 4 times.(ªÿ¤ô
+Fsquid:S00108X")Either remove or fill this block of code.(­¤ß”øÿÿÿÿ
+Zsquid:S3398g">Move this method into the anonymous class declared at line 58.(¡—ÛÌûÿÿÿÿ
+Tsquid:S3398}">Move this method into the anonymous class declared at line 58.(æ ßH
+Tsquid:S3398t">Move this method into the anonymous class declared at line 58.(‰·ÿz
+gsquid:S1192Û"ODefine a constant instead of duplicating this literal "accept-unknown" 3 times.(ªñÙ×
