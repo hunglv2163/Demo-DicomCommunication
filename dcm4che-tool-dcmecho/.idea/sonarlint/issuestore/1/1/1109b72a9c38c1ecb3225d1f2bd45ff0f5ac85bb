@@ -1,0 +1,8 @@
+
+^squid:S1854
+";Remove this useless assignment to local variable "portSCP".(Õÿù¶ÿÿÿÿÿ8²»™¦Û-
+Osquid:S1481
+",Remove this unused "portSCP" local variable.(Õÿù¶ÿÿÿÿÿ8²»™¦Û-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ËêÄÚýÿÿÿÿ8Ü™”¦Û-
+Lsquid:S1481	".Remove this unused "remoteSCP" local variable.(æÔ¯È8®ˆ—¦Û-
+[squid:S1854	"=Remove this useless assignment to local variable "remoteSCP".(æÔ¯È8¾Ñ–¦Û-
