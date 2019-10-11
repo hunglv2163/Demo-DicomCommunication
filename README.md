@@ -29,7 +29,7 @@
    
 3. Dcmsnd: This app will make a send request to SCP server(one or many dicom files )
 
-   usage: dcmesnd STORESCP@localhost:4444 <path of file>
+   usage: dcmesnd STORESCP@localhost:4444 path of file
    
    Run app in Test class. There are two parameters are passed to function:
    
