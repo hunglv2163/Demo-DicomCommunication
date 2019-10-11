@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a774bc03-5bff-4ba0-837f-f33b166e872e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StoreSCP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StoreSCP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/sonarlint/issuestore/1/1/1109b72a9c38c1ecb3225d1f2bd45ff0f5ac85bb" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/sonarlint/issuestore/1/1/1109b72a9c38c1ecb3225d1f2bd45ff0f5ac85bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/src/main/java/org/dcm4che2/tool/dcmecho/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/src/main/java/org/dcm4che2/tool/dcmecho/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/target/classes/org/dcm4che2/tool/dcmecho/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/target/classes/org/dcm4che2/tool/dcmecho/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/sonarlint/issuestore/4/4/441dd0be232e351d4f2b9906e4bb9964122586c8" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/sonarlint/issuestore/4/4/441dd0be232e351d4f2b9906e4bb9964122586c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/DcmHPQR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/target/classes/org/dcm4che2/tool/dcmsnd/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/target/classes/org/dcm4che2/tool/dcmsnd/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,23 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/DcmHPQR.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="144" column="30" lean-forward="true" selection-start-line="144" selection-start-column="30" selection-end-line="144" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -46,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="549">
+              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -79,7 +64,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="397" />
     <option name="y" value="177" />
     <option name="width" value="1400" />
@@ -141,7 +126,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570767621683" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570768986849" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -167,15 +152,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570765439398</updated>
-      <workItem from="1570765441708" duration="1564000" />
+      <workItem from="1570765441708" duration="2052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1564000" />
+    <option name="totallyTimeSpent" value="2052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -213,13 +198,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/DcmHPQR.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
@@ -230,10 +208,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>

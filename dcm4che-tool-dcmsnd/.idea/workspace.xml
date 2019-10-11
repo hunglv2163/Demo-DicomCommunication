@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,6 +141,14 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dcmsnd" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dcm4che-tool-dcmsnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="dcm4che-tool-dcmsnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,18 +209,18 @@
       <workItem from="1570701220285" duration="14000" />
       <workItem from="1570706126385" duration="198000" />
       <workItem from="1570764047269" duration="1390000" />
-      <workItem from="1570767616551" duration="4000" />
+      <workItem from="1570767616551" duration="1363000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9238000" />
+    <option name="totallyTimeSpent" value="10597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -283,7 +291,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

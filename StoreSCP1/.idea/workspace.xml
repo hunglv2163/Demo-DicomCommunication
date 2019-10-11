@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa43139f-d8c6-4948-be4f-e863594afd19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/sonarlint/issuestore/1/1/1109b72a9c38c1ecb3225d1f2bd45ff0f5ac85bb" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/sonarlint/issuestore/1/1/1109b72a9c38c1ecb3225d1f2bd45ff0f5ac85bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/src/main/java/org/dcm4che2/tool/dcmecho/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/src/main/java/org/dcm4che2/tool/dcmecho/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/target/classes/org/dcm4che2/tool/dcmecho/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/target/classes/org/dcm4che2/tool/dcmecho/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/sonarlint/issuestore/4/4/441dd0be232e351d4f2b9906e4bb9964122586c8" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/sonarlint/issuestore/4/4/441dd0be232e351d4f2b9906e4bb9964122586c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/src/main/java/org/dcm4che2/tool/dcmhpqr/DcmHPQR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/target/classes/org/dcm4che2/tool/dcmsnd/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmsnd/target/classes/org/dcm4che2/tool/dcmsnd/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -134,7 +131,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570767621672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570768986818" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -179,18 +176,18 @@
       <workItem from="1570681167940" duration="6844000" />
       <workItem from="1570705812278" duration="513000" />
       <workItem from="1570759190207" duration="2354000" />
-      <workItem from="1570763423751" duration="1417000" />
+      <workItem from="1570763423751" duration="2432000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12019000" />
+    <option name="totallyTimeSpent" value="13034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -199,12 +196,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" />
