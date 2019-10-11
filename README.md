@@ -45,7 +45,7 @@
    
         <path of file>: the path of file or path of directory contains files
    
-   After send file to SCP server, file will be stored in directory contains StoreSCP app.
+   After sending file to SCP server, file will be stored in directory contains StoreSCP app.
    
  4. Dcmhpqr: This app will make a query request to SCP server
    
