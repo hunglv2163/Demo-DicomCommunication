@@ -8,14 +8,17 @@ import java.io.IOException;
 
 public class Test {
     public static void main(String[] args) throws IOException, InterruptedException, ConfigurationException {
+        String[] para = new String[2];
+        para[0] = "STORESCP@localhost:4444";
+        para[1] = "5a7301a0e4b0b4037cf4bfec.dcm";
 
-        String remoteAE = "STORESCP";
+        DcmSnd.main(para);
+
+
+       /* String remoteAE = "STORESCP";
         String remotehost = "127.0.0.1";
         int port = 4444;
         String path = "5a7301a0e4b0b4037cf4bfec.dcm";
-
-
-
         DcmSnd dcmSnd = new DcmSnd();
 
         dcmSnd.setCalledAET(remoteAE);
@@ -110,6 +113,6 @@ public class Test {
             dcmSnd.stop();
         }
     }
-
+*/
     }
 }

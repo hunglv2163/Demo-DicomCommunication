@@ -1,36 +1,8 @@
 
-[
-squid:S106?"9Replace this use of System.out or System.err by a logger.(ÊÄ™Œşÿÿÿÿ8‘¦¤Û-
-U
-squid:S106"9Replace this use of System.out or System.err by a logger.(Û¹ùg8‘¦¤Û-
-Xsquid:S2209E"5Change this instance-reference to a static reference.(ë øûÿÿÿÿ8ÀÇ½¤Û-
-U
-squid:S1065"9Replace this use of System.out or System.err by a logger.(³˜Ã.8‘¦¤Û-
-[
-squid:S106G"9Replace this use of System.out or System.err by a logger.(Ñá”™üÿÿÿÿ8‘¦¤Û-
-isquid:S2142e"FEither re-interrupt this method or rethrow the "InterruptedException".(¥ˆó—ûÿÿÿÿ8‘¦¤Û-
-Xsquid:S22099"5Change this instance-reference to a static reference.(Û©ÔÙûÿÿÿÿ8Øµ¼¤Û-
-V
-squid:S1060"9Replace this use of System.out or System.err by a logger.(›‘·8‘¦¤Û-
-V
-squid:S106T"9Replace this use of System.out or System.err by a logger.(¶­Á¿8‘¦¤Û-
-[
-squid:S106]"9Replace this use of System.out or System.err by a logger.(Ÿªèüÿÿÿÿ8‘¦¤Û-
-[
-squid:S106M"9Replace this use of System.out or System.err by a logger.(“ùÀîÿÿÿÿÿ8‘¦¤Û-
-Xsquid:S2209c"5Change this instance-reference to a static reference.(ë øûÿÿÿÿ8º·À¤Û-
-U
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(ªàÚ8‘¦¤Û-
-V
-squid:S106k"9Replace this use of System.out or System.err by a logger.(Ùğ™½8‘¦¤Û-
-V
-squid:S106&"9Replace this use of System.out or System.err by a logger.(ñöé¸8‘¦¤Û-
-[
-squid:S106f"9Replace this use of System.out or System.err by a logger.(×”«²ÿÿÿÿÿ8‘¦¤Û-
-usquid:S3776
-"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ææü®ıÿÿÿÿ8‘¦¤Û-
-V
-squid:S106@"9Replace this use of System.out or System.err by a logger.(…±à8‘¦¤Û-
-V
-squid:S106^"9Replace this use of System.out or System.err by a logger.(…±à8‘¦¤Û-
-isquid:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(˜ı÷“ıÿÿÿÿ8‘¦¤Û-
+©%squid:RedundantThrowsDeclarationCheck
+"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Ææü®ıÿÿÿÿ8úçÇÛ-
+¾%squid:RedundantThrowsDeclarationCheck
+"€Remove the declaration of thrown exception 'org.dcm4che2.net.ConfigurationException', as it cannot be thrown from method's body.(Ææü®ıÿÿÿÿ8úçÇÛ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’Ú¼²8Â³èÆÛ-
+´%squid:RedundantThrowsDeclarationCheck
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ææü®ıÿÿÿÿ8úçÇÛ-

@@ -2,18 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a789ca8d-fbfd-4d0f-8e30-824ab85388c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../StoreSCP1/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StoreSCP1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../StoreSCP1/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmhpqr/src/main/java/org/dcm4che2/tool/dcmhpqr/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../StoreSCP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StoreSCP1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StoreSCP1/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StoreSCP1/src/main/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StoreSCP1/src/test/StoreSCP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StoreSCP1/target/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StoreSCP1/target/classes/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/sonarlint/issuestore/1/1/1109b72a9c38c1ecb3225d1f2bd45ff0f5ac85bb" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/sonarlint/issuestore/1/1/1109b72a9c38c1ecb3225d1f2bd45ff0f5ac85bb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/dcm4che-tool-dcmecho.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/src/main/java/org/dcm4che2/tool/dcmecho/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/src/main/java/org/dcm4che2/tool/dcmecho/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/target/classes/org/dcm4che2/tool/dcmecho/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../dcm4che-tool-dcmecho/target/classes/org/dcm4che2/tool/dcmecho/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/441dd0be232e351d4f2b9906e4bb9964122586c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/441dd0be232e351d4f2b9906e4bb9964122586c8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/dcm4che2/tool/dcmsnd/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/dcm4che2/tool/dcmsnd/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-202">
-              <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+            <state relative-caret-position="238">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,7 +151,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570696749994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570765108493" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -201,17 +199,20 @@
       <updated>1570681148878</updated>
       <workItem from="1570681150318" duration="7632000" />
       <workItem from="1570701220285" duration="14000" />
+      <workItem from="1570706126385" duration="198000" />
+      <workItem from="1570764047269" duration="1390000" />
+      <workItem from="1570767616551" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7646000" />
+    <option name="totallyTimeSpent" value="9238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -281,8 +282,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/org/dcm4che2/tool/dcmsnd/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret line="59" column="48" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
