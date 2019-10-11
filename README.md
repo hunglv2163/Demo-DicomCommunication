@@ -11,7 +11,7 @@
    
         STORESCP: Application Entity Title
   
-        4444: port of store server
+        4444: port of SCP server
   
 2. Dcmecho: This app will make a echo request to SCP server
 
@@ -43,7 +43,7 @@
    
         4444: port of SCP server
    
-        <path of file>: the path of file or path of directory contains files
+        path of file: the path of file or path of directory contains files
    
    After sending file to SCP server, file will be stored in directory contains StoreSCP app.
    
