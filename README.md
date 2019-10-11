@@ -43,7 +43,7 @@
    
         4444: port of SCP server
    
-        path of file: the path of file or path of directory contains files
+        path of file: the path of file or path of directory contains files (This example is 5a7301a0e4b0b4037cf4bfec.dcm)
    
    After sending file to SCP server, file will be stored in directory contains StoreSCP app.
    
